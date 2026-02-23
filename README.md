@@ -246,19 +246,6 @@ Implement real-world cloud security strategies.
 Design a high-performance, scalable system from scratch.
 
 
-# 🏗 Architecture Diagram
-
-<p align="center">
-  <img src="architecture/cloudflow-architecture.png" width="900">
-</p>
-
-
-# 🏗 Architecture Diagram
-
-<p align="center">
-  <img src="./architecture/cloudflow-architecture.png" width="900">
-</p>
-
 ## 🏗️ Architecture Diagram
 
 ![Architecture](file_000000004be471fa986ffa09116c103d.png)
@@ -271,9 +258,3 @@ This project simulates a real-world enterprise web application infrastructure an
 ---
 
 
-
-
-
- Conclusion
-
-This project strengthened my cloud computing knowledge and gave me practical experience in AWS architecture design, deployment, and security. It’s an excellent foundation for future projects in cloud engineering and DevOps.
