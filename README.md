@@ -258,6 +258,10 @@ Design a high-performance, scalable system from scratch.
 <p align="center">
   <img src="./architecture/cloudflow-architecture.png" width="900">
 </p>
+
+## 🏗️ Architecture Diagram
+
+![Architecture](file_000000004be471fa986ffa09116c103d.png)
 # 🏁 Conclusion
 
 CloudFlow strengthened my understanding of AWS architecture, cloud security, scalability design, and production-grade deployments.  
