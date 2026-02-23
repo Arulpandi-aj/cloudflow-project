@@ -199,23 +199,6 @@ This project simulates a real-world enterprise web application infrastructure an
 
 ---
 
-## 👨‍💻 Author
-
-Victor John  
-Aspiring Cloud & DevOps Engineer
-
-6. Use Route 53 to manage your custom domain.
-
-
-7. Configure Auto Scaling and Load Balancer for scalability.
-
-
-8. Implement IAM Roles and Security Groups for safety.
-
-
-9. Test deployment and confirm high availability.
-
-
 
 4. Benefits of This Architecture
 
