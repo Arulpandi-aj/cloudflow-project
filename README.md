@@ -191,15 +191,6 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-# 🏁 Conclusion
-
-CloudFlow strengthened my understanding of AWS architecture, cloud security, scalability design, and production-grade deployments.  
-
-This project simulates a real-world enterprise web application infrastructure and serves as a strong foundation for Cloud Engineering and DevOps roles.
-
----
-
-
 4. Benefits of This Architecture
 
 Scalability: Handles increased traffic using Auto Scaling.
@@ -253,6 +244,23 @@ Build and connect multiple AWS services.
 Implement real-world cloud security strategies.
 
 Design a high-performance, scalable system from scratch.
+
+
+# 🏗 Architecture Diagram
+
+<p align="center">
+  <img src="architecture/cloudflow-architecture.png" width="900">
+</p>
+
+# 🏁 Conclusion
+
+CloudFlow strengthened my understanding of AWS architecture, cloud security, scalability design, and production-grade deployments.  
+
+This project simulates a real-world enterprise web application infrastructure and serves as a strong foundation for Cloud Engineering and DevOps roles.
+
+---
+
+
 
 
 
